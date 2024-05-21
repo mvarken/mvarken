@@ -1,5 +1,3 @@
-# --- EN ---
-
 ## Hello, I'm Bastian aka mvarken 👋
 
 **About Me 👀**
